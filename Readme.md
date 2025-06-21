@@ -15,11 +15,13 @@ This page contains my solutions of SPOJ problems. They are in C++ language.
 | 4 | DIVSUM | Divisor Summation | [Question](https://www.spoj.com/problems/DIVSUM) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/DIVSUM%20-%20Divisor%20Summation)
 | 5 | EKO | Eko | [Question](https://www.spoj.com/problems/EKO) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/EKO%20-%20Eko)
 | 6 | FAVDICE | Favorite Dice | [Question](https://www.spoj.com/problems/FAVDICE) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/FAVDICE%20-%20Favorite%20Dice)
-| 7 | NAKANJ | Minimum Knight moves | [Question](https://www.spoj.com/problems/NAKANJ) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/NAKANJ%20-%20Minimum%20Knight%20moves)
-| 8 | PALIN | The Next Palindrome | [Question](https://www.spoj.com/problems/PALIN) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/PALIN%20-%20The%20Next%20Palindrome)
-| 9 | PRIME1 | Prime Generator | [Question](https://www.spoj.com/problems/PRIME1) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/PRIME1%20-%20Prime%20Generator)
-| 10 | SBANK | Sorting Bank Accounts | [Question](https://www.spoj.com/problems/SBANK) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/SBANK%20-%20Sorting%20Bank%20Accounts)
-| 11 | ZSUM | Just Add It | [Question](https://www.spoj.com/problems/ZSUM) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/ZSUM%20-%20Just%20Add%20It)
+| 7 | FCTRL | Factorial | [Question](https://www.spoj.com/problems/FCTRL) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/FCTRL%20-%20Factorial)
+| 8 | NAKANJ | Minimum Knight moves | [Question](https://www.spoj.com/problems/NAKANJ) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/NAKANJ%20-%20Minimum%20Knight%20moves)
+| 9 | PALIN | The Next Palindrome | [Question](https://www.spoj.com/problems/PALIN) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/PALIN%20-%20The%20Next%20Palindrome)
+| 10 | PRIME1 | Prime Generator | [Question](https://www.spoj.com/problems/PRIME1) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/PRIME1%20-%20Prime%20Generator)
+| 11 | SBANK | Sorting Bank Accounts | [Question](https://www.spoj.com/problems/SBANK) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/SBANK%20-%20Sorting%20Bank%20Accounts)
+| 12 | TEST | Life, the Universe, and Everything | [Question](https://www.spoj.com/problems/TEST) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/TEST%20-%20Life,%20the%20Universe,%20and%20Everything)
+| 13 | ZSUM | Just Add It | [Question](https://www.spoj.com/problems/ZSUM) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/ZSUM%20-%20Just%20Add%20It)
 
 
 </div>
