@@ -23,8 +23,9 @@ This page contains my solutions of SPOJ problems. They are in C++ language.
 | 12 | PALIN | The Next Palindrome | [Question](https://www.spoj.com/problems/PALIN) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/PALIN%20-%20The%20Next%20Palindrome)
 | 13 | PRIME1 | Prime Generator | [Question](https://www.spoj.com/problems/PRIME1) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/PRIME1%20-%20Prime%20Generator)
 | 14 | SBANK | Sorting Bank Accounts | [Question](https://www.spoj.com/problems/SBANK) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/SBANK%20-%20Sorting%20Bank%20Accounts)
-| 15 | TEST | Life, the Universe, and Everything | [Question](https://www.spoj.com/problems/TEST) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/TEST%20-%20Life,%20the%20Universe,%20and%20Everything)
-| 16 | ZSUM | Just Add It | [Question](https://www.spoj.com/problems/ZSUM) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/ZSUM%20-%20Just%20Add%20It)
+| 15 | SORT2D | 2D-SORT | [Question](https://www.spoj.com/problems/SORT2D) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/SORT2D%20-%202D-SORT)
+| 16 | TEST | Life, the Universe, and Everything | [Question](https://www.spoj.com/problems/TEST) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/TEST%20-%20Life,%20the%20Universe,%20and%20Everything)
+| 17 | ZSUM | Just Add It | [Question](https://www.spoj.com/problems/ZSUM) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/ZSUM%20-%20Just%20Add%20It)
 
 
 </div>
