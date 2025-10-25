@@ -25,9 +25,10 @@ This page contains my solutions of SPOJ problems. They are in C++ language.
 | 14 | PRIME1 | Prime Generator | [Question](https://www.spoj.com/problems/PRIME1) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/PRIME1%20-%20Prime%20Generator)
 | 15 | SBANK | Sorting Bank Accounts | [Question](https://www.spoj.com/problems/SBANK) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/SBANK%20-%20Sorting%20Bank%20Accounts)
 | 16 | SORT2D | 2D-SORT | [Question](https://www.spoj.com/problems/SORT2D) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/SORT2D%20-%202D-SORT)
-| 17 | TEST | Life, the Universe, and Everything | [Question](https://www.spoj.com/problems/TEST) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/TEST%20-%20Life,%20the%20Universe,%20and%20Everything)
-| 18 | TRYCOMP | Try to complete | [Question](https://www.spoj.com/problems/TRYCOMP) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/TRYCOMP%20-%20Try%20to%20complete)
-| 19 | ZSUM | Just Add It | [Question](https://www.spoj.com/problems/ZSUM) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/ZSUM%20-%20Just%20Add%20It)
+| 17 | SUBXOR | SubXor | [Question](https://www.spoj.com/problems/SUBXOR) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/SUBXOR%20-%20SubXor)
+| 18 | TEST | Life, the Universe, and Everything | [Question](https://www.spoj.com/problems/TEST) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/TEST%20-%20Life,%20the%20Universe,%20and%20Everything)
+| 19 | TRYCOMP | Try to complete | [Question](https://www.spoj.com/problems/TRYCOMP) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/TRYCOMP%20-%20Try%20to%20complete)
+| 20 | ZSUM | Just Add It | [Question](https://www.spoj.com/problems/ZSUM) | [Solution](https://github.com/ShazidMashrafi/SPOJ/tree/main/Codes/ZSUM%20-%20Just%20Add%20It)
 
 
 </div>
